@@ -26,7 +26,9 @@ Pandas, NumPy for data processing
 
 Matplotlib, Seaborn for visualization
 
-Regex & NLP for text-based feature extraction
+Regex & NLP for text-based feature extraction 
+
+
 🎯 Future Improvements
 
 Real-time integration with Intrusion Detection Systems (IDS).
